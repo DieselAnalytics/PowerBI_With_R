@@ -1,1 +1,1 @@
-mykey <- "b0349e5fb0404ac9a35c56eda611d80c"
+mykey <- "<Put your key here>"
